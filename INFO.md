@@ -1,4 +1,3 @@
-git is awesome!
-new line
-No code No pain
-experiment with amend
+Новый текст
+Новый текст на потом
+ЕЩЕ Новый текст на потом
